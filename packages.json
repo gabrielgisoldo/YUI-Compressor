@@ -1,0 +1,17 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+        {
+            "name": "YUI Compressor",
+            "details": "https://github.com/gabrielgisoldo/YUI-Compressor",
+            "readme": "https://raw.githubusercontent.com/gabrielgisoldo/YUI-Compressor/master/README.md",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "platforms": ["windows", "linux"],
+                    "tags": true
+                }
+            ]
+        }
+    ]
+}
