@@ -1,8 +1,8 @@
 # YUI-Compressor
-Compresses javascript and css using YUI-Compressor <http://yuilibrary.com/download/yuicompressor/>
+Compresses javascript and css using YUI-Compressor <https://github.com/yui/yuicompressor/releases>
 
 ## Installation
-Use package control <http://wbond.net/sublime_packages/package_control> and search for YUI Compressor
+Use package control <https://packagecontrol.io> and search for YUI Compressor
 
 ## Gettings started
 Make sure you have java installed and that it's on the path.
